@@ -1,0 +1,12 @@
+.mask {
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 50px;
+    padding: 50px;
+}
+
+.hero {
+
+    background-image: url('https://ik.imagekit.io/mistermobile/dh-blog/wp-content/uploads/2019/10/To-Do-Apps_preview.jpg');
+    background-size: cover;
+    height: 400px;
+}
