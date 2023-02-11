@@ -42,9 +42,9 @@ for (let i = 0; i < btns.length; i++) {
         if (prio == 0 || prio == 1) {
             document.getElementsByClassName("prioritys")[i].classList.add("bg-success");
         } else if (prio == 2 || prio == 3) {
-            document.getElementsByClassName("prioritys")[i].classList.add("bg-warning");
+            document.getElementsByClassName("prioritys")[i].classList.replace("bg-success", "bg-warning");
         } else if (prio == 4 || prio == 5) {
-            document.getElementsByClassName("prioritys")[i].classList.add("bg-danger");
+            document.getElementsByClassName("prioritys")[i].classList.replace("bg-warning", "bg-danger");
         }
 
     })
@@ -64,7 +64,7 @@ for (let i = 0; i < del.length; i++) {
     })
 }
 
-//  Add a Sort button that will sort the resulting list of tasks according to their current level of importance 
+//  Add a Sort button that will sort the resulting list of tasks according to their current level of importance
 // const sort = document.getElementsByClassName("sort-btn");
 // sort.addEventListener("click", function () {
 
