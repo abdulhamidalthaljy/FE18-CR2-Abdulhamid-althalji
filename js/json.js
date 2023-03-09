@@ -33,7 +33,7 @@ let todo = `[
     {
       "task": "Wander Along The Magical Danube Island",
       "desc": "Spend a day in the sun at the Danube Island Easily accessible by U-Bahn or Bike the Danube Island is a 21km island in the Danube River",
-      "img": "https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863_960_720.jpg",
+      "img": "",
       "priority": 0
     }
     
