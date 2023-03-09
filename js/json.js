@@ -3,7 +3,7 @@ let todo = `[
     {
       "task": " Visit The Worlds Top Museums At MuseumsQuartier",
       "desc": " Viennas MuseumsQuartier houses most of the must-see museums  in the old Hapsburgian Imperial stables of all places.",
-      "img": "https://e8s3v3w7.rocketcdn.me/wp-content/uploads/2017/11/occ88sterreich-wien-die-donauinsel-in-wien-trennt-seit-1988-die-alte-von-der-neuen-donau-und-ist-als-naherholungsgebiet-und-veranstaltungsort-bekannt-occ88sterreich-mrgb-shutterstock-696x464.jpg",
+      "img": "https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863_960_720.jpg",
       "priority": 0
     },
     {
@@ -33,7 +33,7 @@ let todo = `[
     {
       "task": "Wander Along The Magical Danube Island",
       "desc": "Spend a day in the sun at the Danube Island Easily accessible by U-Bahn or Bike the Danube Island is a 21km island in the Danube River",
-      "img": "https://e8s3v3w7.rocketcdn.me/wp-content/uploads/2017/11/occ88sterreich-wien-die-donauinsel-in-wien-trennt-seit-1988-die-alte-von-der-neuen-donau-und-ist-als-naherholungsgebiet-und-veranstaltungsort-bekannt-occ88sterreich-mrgb-shutterstock-696x464.jpg",
+      "img": "https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863_960_720.jpg",
       "priority": 0
     }
     
